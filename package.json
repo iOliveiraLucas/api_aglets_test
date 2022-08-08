@@ -1,0 +1,15 @@
+{
+  "name": "api_aglets",
+  "version": "1.0.0",
+  "description": "API teste",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon main"
+  },
+
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
