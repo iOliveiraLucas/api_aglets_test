@@ -6,6 +6,6 @@ if(require.main === module) {
     app.use(cors())
     require('./routes')(app);
     app.listen(2000, () => {
-        console.log('serv started')
+        console.log('API started')
     })
 }
