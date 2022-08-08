@@ -1,0 +1,131 @@
+{
+	"202201": {
+		"origin": "Marketplace",
+		"statusDescription": "Preparando Entrega",
+		"clientProfileData": {
+			"id": "clientProfileData",
+			"email": "6e2ea3013fa5470986df7226e7ef2427@ct.vtex.com.br",
+			"firstName": "Rodrigo",
+			"lastName": "Soares",
+			"documentType": "cpf",
+			"document": "43085896066",
+			"phone": "+5531971596783"
+		},
+		"item": {
+			"productId": "977",
+			"quantity": 1,
+			"name": "Sandália Rasteira Beira Rio Nude 36",
+			"price": 60.71
+		},
+		"shippingData": {
+			"shippingValue": 19.67,
+			"shippingAddress": {
+				"addressType": "residential",
+				"receiverName": "Rodrigo Soares",
+				"addressId": "1637250188747",
+				"postalCode": "32341-100",
+				"city": "Contagem",
+				"state": "MG",
+				"country": "BRA",
+				"street": "Avenida Doutor João Augusto Fonseca e Silva",
+				"number": "16",
+				"neighborhood": "Novo Eldorado",
+				"complement": null,
+				"reference": null
+			}
+		},
+		"seller": {
+			"id": "1",
+			"name": "AGLETS SOLUCOES LTDA"
+		},
+		"creationDate": "2022-03-16T02:57:49.020Z",
+		"lastChange": "2022-03-16T02:58:33.363Z",
+		"totalValue": 80.38
+	},
+	"202202": {
+		"origin": "Marketplace",
+		"statusDescription": "Faturado",
+		"clientProfileData": {
+			"id": "clientProfileData",
+			"email": "cc687ba1ee6048c8ae15576a95112622@ct.vtex.com.br",
+			"firstName": "Pedro",
+			"lastName": "Santos",
+			"documentType": "cpf",
+			"document": "40748311041",
+			"phone": "+5531983775688"
+		},
+		"item": {
+			"productId": "36",
+			"quantity": 3,
+			"name": "Mug Térmico Classic Stanley 354ml Azul UN",
+			"price": 204.90
+		},
+		"shippingData": {
+			"shippingValue": 19.28,
+			"shippingAddress": {
+				"addressType": "residential",
+				"receiverName": "Pedro Santos",
+				"addressId": "4945462871418",
+				"postalCode": "30770-470",
+				"city": "Belo Horizonte",
+				"state": "MG",
+				"country": "BRA",
+				"street": "Rua Atalaia",
+				"number": "240",
+				"neighborhood": "Caiçaras",
+				"complement": "B",
+				"reference": null
+			}
+		},
+		"seller": {
+			"id": "1",
+			"name": "AGLETS SOLUCOES LTDA"
+		},
+		"creationDate": "2022-03-30T18:49:22.736Z",
+		"lastChange": "2022-03-30T19:09:26.666Z",
+		"totalValue": 633.98
+	},
+	"202203": {
+		"origin": "Marketplace",
+		"statusDescription": "Faturado",
+		"clientProfileData": {
+			"id": "clientProfileData",
+			"email": "50ccf727f4924d8dadcf721b8b0ed815@ct.vtex.com.br",
+			"firstName": "Gabriel",
+			"lastName": "Rodrigues",
+			"documentType": "cpf",
+			"document": "78963714055",
+			"phone": "+5531983775688"
+		},
+		"item": {
+			"productId": "36",
+			"quantity": 2,
+			"name": "Mug Térmico Classic Stanley 354ml Azul UN",
+			"price": 204.90
+		},
+		"shippingData": {
+			"shippingValue": 17.94,
+			"shippingAddress": {
+				"addressType": "residential",
+				"receiverName": "Gabriel Rodrigues",
+				"addressId": "4945462871418",
+				"postalCode": "30770-470",
+				"city": "Belo Horizonte",
+				"state": "MG",
+				"country": "BRA",
+				"street": "Rua Atalaia",
+				"number": "240",
+				"neighborhood": "Caiçaras",
+				"complement": "B",
+				"reference": null
+			}
+		},
+		"seller": {
+			"id": "1",
+			"name": "AGLETS SOLUCOES LTDA"
+		},
+		"creationDate": "2022-03-30T20:00:04.368Z",
+		"lastChange": "2022-03-30T20:05:11.282Z",
+		"totalValue": 427.74
+	}
+}
