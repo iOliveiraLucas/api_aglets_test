@@ -1,8 +1,8 @@
-const UsuarioController = require('./app/Controllers/sale');
+const Controller = require('./app/Controllers/sale');
 
 module.exports = (app) => {
-   app.get('/sale', UsuarioController.salesDataGet);
-   app.post('/sale', UsuarioController.salesDataPost);
-   app.patch('/sale', UsuarioController.salesDataPatch);
-   app.delete('/sale', UsuarioController.salesDataDelete);
+   app.get('/sale', Controller.salesDataGet);
+   app.post('/sale', Controller.salesDataPost);
+   app.patch('/sale', Controller.salesDataPatch);
+   app.delete('/sale', Controller.salesDataDelete);
 }
